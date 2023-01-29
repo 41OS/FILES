@@ -9,9 +9,6 @@
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="logo@rounded.svg"
-   inkscape:export-filename="/home/aqil/Dev/41OS/FILES/logo@rounded_120x120.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,7 +21,12 @@
      borderopacity="1"
      inkscape:pageshadow="0"
      inkscape:pageopacity="0"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:pagecheckerboard="1"
+     inkscape:window-width="1600"
+     inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
      inkscape:snap-global="true"
@@ -41,15 +43,10 @@
      inkscape:snap-center="false"
      inkscape:object-nodes="false"
      inkscape:snap-page="true"
-     inkscape:zoom="2"
-     inkscape:cx="50.5"
-     inkscape:cy="100.5"
-     inkscape:window-width="1600"
-     inkscape:window-height="864"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:zoom="2.8284271"
+     inkscape:cx="25.102291"
+     inkscape:cy="37.830213"
+     inkscape:window-height="864" />
   <defs
      id="defs2">
     <linearGradient
